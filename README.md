@@ -26,6 +26,3 @@ CMD ["node", "src/index.js"]
   
 ##### `docker rm (-f) <the-container-id>`
 `remove container. (-f: stop and remove container)`
-
-##### `docker rm (-f) <the-container-id>`
-`remove container. (-f: stop and remove container)`
